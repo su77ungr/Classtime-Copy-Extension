@@ -1,10 +1,9 @@
 
-# Enable Copy Extension - Erste Juristische Staatsprüfung E-Examen (Classtime) 
+# Classtime Copy Extension - Erste Juristische Staatsprüfung E-Examen Demo-Portal
 
-Unofficial mod to extract text written within the "Demoportal
-Juristische Staatsprüfung" for test and simulation purposes.
-
-Bypasses Slate.js restrictions in the Classtime editor to allow copying text to your system clipboard. **Keeps orignal formatting (Gliederungsebenen)!**
+Unofficial browser extention to extract text written within the "Demoportal
+Juristische Staatsprüfung". <br>
+This bypasses Slate.js restrictions in the Classtime editor to allow copying text to your system clipboard. **Keeps orignal formatting (Gliederungsebenen)!**
 
 
 ![](https://i.imgur.com/fRyVGNE_d.webp?maxwidth=760&fidelity=grand)
