@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Enable Copy Classtime",
+  "version": "1.0",
+  "description": "Extracts text from locked Slate.js editors.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
