@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { 
+      width: 180px; 
+      padding: 12px; 
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      text-align: center;
+    }
+    button { 
+      width: 100%; 
+      cursor: pointer; 
+      padding: 10px; 
+      background: #4285f4; 
+      color: white; 
+      border: none; 
+      border-radius: 4px; 
+      font-weight: bold;
+      transition: background 0.2s;
+    }
+    button:hover { background: #357ae8; }
+    
+    /* Success Animation Styles */
+    #status {
+      margin-top: 10px;
+      font-size: 0.85em;
+      color: #0f9d58;
+      font-weight: 500;
+      opacity: 0;
+      transform: translateY(-5px);
+      transition: all 0.3s ease;
+    }
+    #status.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .footer {
+      margin-top: 15px;
+      font-size: 10px;
+      color: #9aa0a6;
+      border-top: 1px solid #eee;
+      padding-top: 8px;
+    }
+  </style>
+</head>
+<body>
+  <button id="extractBtn">Copy Formatted Text</button>
+  
+  <div id="status"></div>
+
+  <div class="footer">maintained by su77ungr</div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
