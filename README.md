@@ -10,8 +10,8 @@ Bypasses Slate.js restrictions in the Classtime editor to allow copying text to 
 ![](https://i.imgur.com/fRyVGNE_d.webp?maxwidth=760&fidelity=grand)
 
 ## Installation
-1. [Download](https://github.com/su77ungr/classtime-E-examen-copy-tool/blob/main/classtime-examen-copy-tool-main.zip) and extract the `.zip` file. 
-2. Open Chrome and go to `chrome://extensions/`.
+1. Download https://github.com/su77ungr/classtime-E-examen-copy-tool/archive/refs/tags/release.zip (latest release) and extract the `.zip` file. 
+2. Open Chrome and type in url bar `chrome://extensions/`.
 
 ![](https://i.imgur.com/1vTSzP4.jpeg)
 
