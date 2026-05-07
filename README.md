@@ -1,7 +1,7 @@
 
 # Classtime Copy Extension - Erste Juristische Staatsprüfung E-Examen Demo-Portal
 
-Unofficial browser extention to extract text written within the "Demoportal
+Unofficial browser extension to extract text written within the "Demoportal
 Juristische Staatsprüfung". <br>
 This bypasses Slate.js restrictions in the Classtime editor to allow copying text to your system clipboard. **Keeps orignal formatting (Gliederungsebenen)!**
 
