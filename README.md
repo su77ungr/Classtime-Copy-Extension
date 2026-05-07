@@ -1,8 +1,10 @@
-# Classtime Copy Extension (Enable Copy Classtiem) - Erste Juristische Staatsprüfung E-Examen Text-Portal
+
+# Enable Copy Extension - Erste Juristische Staatsprüfung E-Examen (Classtime) 
+
+Unofficial mod to extract text written within the "Demoportal
+Juristische Staatsprüfung" for test and simulation purposes.
 
 Bypasses Slate.js restrictions in the Classtime editor to allow copying text to your system clipboard. 
-
-Get used to the Editor and export all of your written text. (e.g. export to Eudthiek or just print out)
 
 
 ![](https://i.imgur.com/fRyVGNE_d.webp?maxwidth=760&fidelity=grand)
@@ -18,9 +20,10 @@ Get used to the Editor and export all of your written text. (e.g. export to Eudt
 4. Click **Load unpacked** and select the extracted folder.
 
 ## Usage
-Add the extension to your toolbar.
-Go to your classtime.com / demot tab tab
-Click the gray "E" extension and click copy all written text. Then paste into WORD, or any text editor of your choice. Keeps format. 
+Add the extension to your toolbar. <br>
+Go to your classtime.com / demot tab tab <br>
+Click the gray "E" extension and click copy all written text. 
+<br> Then paste into WORD, or any text editor of your choice. Keeps format. 
 
 
 
