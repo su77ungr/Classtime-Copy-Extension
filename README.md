@@ -4,27 +4,23 @@
 Unofficial mod to extract text written within the "Demoportal
 Juristische Staatsprüfung" for test and simulation purposes.
 
-Bypasses Slate.js restrictions in the Classtime editor to allow copying text to your system clipboard. 
+Bypasses Slate.js restrictions in the Classtime editor to allow copying text to your system clipboard. **Keeps orignal formatting (Gliederungsebenen)!**
 
 
 ![](https://i.imgur.com/fRyVGNE_d.webp?maxwidth=760&fidelity=grand)
 
 ## Installation
-1. Download and extract the `.zip` file.
+1. [Download](https://github.com/su77ungr/classtime-E-examen-copy-tool/blob/main/classtime-examen-copy-tool-main.zip) and extract the `.zip` file. 
 2. Open Chrome and go to `chrome://extensions/`.
 
 ![](https://i.imgur.com/1vTSzP4.jpeg)
-
 
 3. Toggle **Developer mode** to **ON** (top right corner).
 4. Click **Load unpacked** and select the extracted folder.
 
 ## Usage
-Add the extension to your toolbar. <br>
-Go to your classtime.com / demot tab tab <br>
-Click the gray "E" extension and click copy all written text. 
-<br> Then paste into WORD, or any text editor of your choice. Keeps format. 
-
+1. Select/Focus Classtime tab <br>
+2. Click the gray "E" extension and click copy all written text to your clipboard
 
 
 ### Tested on version (app-bayern-demoportal-2026-04-23)
